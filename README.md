@@ -9,7 +9,7 @@ This guide explains how to use the Image Sonification Tool, from setting up the 
 
 ### **Project Structure**
 Your project directory should look like this:
-
+```
 Tool./
 │
 ├── main.py                  # Main script for running the tool
@@ -136,3 +136,5 @@ After running the tool:
 
 ### **Final Notes**
 With this tool, users can transform `.npy` image data into sound, providing a unique way to interpret astronomical data. Customize the parameters for experimentation and refine the tool as needed.
+
+
